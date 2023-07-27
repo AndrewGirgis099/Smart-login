@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(36, 53, 63);
+}
+
+
+.sign-up{
+    background-color: rgb(36, 53, 63);
+    box-shadow: 1px  1px  30px 1px rgb(34, 33, 33);
+}
+
+.title{
+    color: rgb(29, 160, 180);
+}
+
+.sign-btn{
+    border-color: rgb(29, 160, 180) !important ;
+    color: rgb(29, 160, 180);
+}
+.sign-btn:hover{
+    background-color: rgb(29, 160, 180) !important ;
+}
+
+.my-nav{
+    background-color: rgb(36, 53, 63);
+    box-shadow: 1px  1px  30px 1px rgb(34, 33, 33);
+}
+
+
+
+.sign-up{
+    width: 88% !important;
+}
+.my-home{
+    position: relative;
+    top: 200px;
+
+}
+
